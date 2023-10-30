@@ -28,9 +28,18 @@ Whether you're an AI enthusiast, a researcher, a developer, or someone curious a
 
 For more details and to join the workshop, click [here](https://odsc.com/speakers/aligning-open-source-llms-using-reinforcement-learning-from-feedback/).
 
-# Notebooks
+# Notebooks / Slides
 
 Dive deep into the practical application with our comprehensive notebooks. These notebooks will guide you step by step through the two case studies covered in the workshop, allowing for an interactive and hands-on learning experience.
+
+## Workshop Slides
+
+For a comprehensive overview and visual representation of the concepts discussed during the workshop, refer to the provided slide deck:
+
+- **Slides:** [ODSC LLM Alignment.pdf](./ODSC%20LLM%20Alignment.pdf)
+
+We recommend using these slides as a supplementary resource to better understand the practical exercises demonstrated in the notebooks.
+
 
 ## Case Study 1: Aligning T5 Summaries to be More Neutral
 
