@@ -47,21 +47,21 @@ This case study will provide you with a practical understanding of how to fine-t
 
 - **Notebook:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wG8lv6drn872HNZHrT7V9kl6JIF1SXpr?usp=sharing) - Aligning T5 Summaries to be More Neutral
 
-## Case Study 2: Aligning Bloom 560M to Answer Questions on Custom Datasets
+## Case Study 2: Aligning Llama 3 8B to Answer Questions on Custom Datasets
 
-Follow this extensive guide to aligning the Bloom 560M model to answer questions more effectively on custom datasets. Each notebook covers a unique aspect of the alignment process.
+Follow this extensive guide to aligning the Llama 3 model to answer questions more effectively on custom datasets. Each notebook covers a unique aspect of the alignment process to make SAWYER - Sinan's Attempt at Wise Yet Engaging Responses
 
-1. **Fine-tuning BLOOM with Instruction Data:** Get your datasets ready and understand the initial performance of Bloom 560M.
-   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nY3E2MyrG1FmXFngvqATcy-n0zYCVze6?usp=sharing) - Fine-tuning BLOOM with Instruction Data
+1. **Fine-tuning SAWYER with Instruction Data:** Get your datasets ready and understand the initial performance of Bloom 560M.
+   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gN7jsUFQTPAj5uFrq06HcSLQSZzT7hZz?usp=sharing) - Supervised Fine-tuning SAWYER with Instruction Data
    
-2. **Training a Reward Model for RLHF:** Learn how to evaluate the quality of answers provided by Bloom 560M using paired preference data.
-   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dMtM3DyBDILOb6w9qeSuQgG3LmllDWVg?usp=sharing) - Training a Reward Model for RLHF Using Paired Preference Data
+2. **Training a Reward Model for RLHF:** Learn how to evaluate the quality of answers provided by SAWYER using paired preference data.
+   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bVjTzOjXCOM8J6tzgt3LK-D0K-yGWzyI?usp=sharing) - Training a Reward Model for RLHF Using Paired Preference Data
    
-3. **Performing RLHF on Bloom-560M:** Begin the journey of implementing reinforcement learning techniques to improve the alignment of Bloom 560M.
-   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XOg_54IZVpd9b25qzViAws49x5X6Z-gb?usp=sharing) - Performing RLHF on Bloom-560M
+3. **Performing RLHF on SAWYER:** Begin the journey of implementing reinforcement learning techniques to improve the alignment of Bloom 560M.
+   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QR_Xf1GsOyChYzReg_JHxsBTrMZ0Vwz6?usp=sharing) - Performing RLHF on SAWYER to make our answers more beautiful
    
-4. **Spot Evaluating Our Newly Aligned LLM:** Continuously enhance Bloom 560M's alignment using advanced RL techniques and evaluate the improvements.
-   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dMeKBcfnjdFUq_EpVjqlz2-VYQ7JIX8g?usp=sharing) - Spot Evaluating Our Newly Aligned LLM
+4. **Evaluating Our Newly Aligned LLM:** Continuously enhance SAWYER alignment using advanced RL techniques and evaluate the improvements.
+   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xUrIbqyKoEjxNyjNI6iuYuSNMyksypEO?usp=sharing) - Spot Evaluating Our Newly Aligned LLM
    
-5. **Updating Our LLM with New Information:** Implement your custom dataset and evaluate the final performance of the aligned Bloom 560M model.
+5. **Updating Our LLM with New Information:** Implement your custom dataset and evaluate the final performance of SAWYER
    - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12JeS96SVLIyY06bzJs96B5PdTt1Pga06?usp=sharing) - Updating Our LLM with New Information
