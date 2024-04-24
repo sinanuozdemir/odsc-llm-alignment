@@ -51,13 +51,13 @@ This case study will provide you with a practical understanding of how to fine-t
 
 Follow this extensive guide to aligning the Llama 3 model to answer questions more effectively on custom datasets. Each notebook covers a unique aspect of the alignment process to make SAWYER - Sinan's Attempt at Wise Yet Engaging Responses
 
-1. **Fine-tuning SAWYER with Instruction Data:** Get your datasets ready and understand the initial performance of Bloom 560M.
+1. **Fine-tuning SAWYER with Instruction Data:** Get your datasets ready and understand the initial performance of SAWYER.
    - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gN7jsUFQTPAj5uFrq06HcSLQSZzT7hZz?usp=sharing) - Supervised Fine-tuning SAWYER with Instruction Data
    
 2. **Training a Reward Model for RLHF:** Learn how to evaluate the quality of answers provided by SAWYER using paired preference data.
    - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bVjTzOjXCOM8J6tzgt3LK-D0K-yGWzyI?usp=sharing) - Training a Reward Model for RLHF Using Paired Preference Data
    
-3. **Performing RLHF on SAWYER:** Begin the journey of implementing reinforcement learning techniques to improve the alignment of Bloom 560M.
+3. **Performing RLHF on SAWYER:** Begin the journey of implementing reinforcement learning techniques to improve the alignment of SAWYER.
    - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QR_Xf1GsOyChYzReg_JHxsBTrMZ0Vwz6?usp=sharing) - Performing RLHF on SAWYER to make our answers more beautiful
    
 4. **Evaluating Our Newly Aligned LLM:** Continuously enhance SAWYER alignment using advanced RL techniques and evaluate the improvements.
