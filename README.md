@@ -36,7 +36,7 @@ Dive deep into the practical application with our comprehensive notebooks. These
 
 For a comprehensive overview and visual representation of the concepts discussed during the workshop, refer to the provided slide deck:
 
-- **Slides:** [ODSC LLM Alignment.pdf](./ODSC%20LLM%20Alignment.pdf)
+- **Slides:** [ODSC LLM Alignment.pdf](./ODSC%20-%20LLM%20Alignment.pdf)
 
 We recommend using these slides as a supplementary resource to better understand the practical exercises demonstrated in the notebooks.
 
