@@ -76,6 +76,7 @@ Follow this extensive guide to aligning the Llama 3 model to answer questions mo
    <p align="center">
   <img style="max-height:700px;" src="images/rew.png" />
 </p>
+
 5. **Updating Our LLM with New Information:** Implement your custom dataset and evaluate the final performance of SAWYER
    - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12JeS96SVLIyY06bzJs96B5PdTt1Pga06?usp=sharing) - Updating Our LLM with New Information
   <p align="center">
