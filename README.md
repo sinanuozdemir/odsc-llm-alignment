@@ -1,10 +1,15 @@
 # Aligning Open-Source Large Language Models (LLMs) using Reinforcement Learning from Feedback
 
-Welcome to the GitHub repository for the ODSC workshop on aligning open-source LLMs using reinforcement learning. This workshop is designed to help you unlock the full potential of LLMs, which have been revolutionizing the AI field with models like ChatGPT and Llama-2. 
+Welcome to the GitHub repository for the ODSC workshop on aligning open-source LLMs using reinforcement learning. This workshop is designed to help you unlock the full potential of LLMs, which have been revolutionizing the AI field with models like ChatGPT and Llama-3. 
 
-## Introduction
+These case studies are from my Book: [Quick Start Guide to LLMs](https://github.com/sinanuozdemir/quick-start-guide-to-llms)
+<p align="center">
+  <a href="https://github.com/sinanuozdemir/quick-start-guide-to-llms">
+    <img style="max-height:200px;" src="images/book.png" alt="Book">
+  </a>
+</p>
 
-The current era of artificial intelligence is dominated by Large Language Models (LLMs). These models, such as ChatGPT and Llama-2, are rapidly transforming various sectors by offering innovative solutions and enhancing human-AI interaction. However, optimizing these models for the best interaction requires expertise and understanding. This workshop aims to fill that gap.
+
 
 ## What Will You Learn?
 
