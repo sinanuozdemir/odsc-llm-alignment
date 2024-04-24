@@ -51,6 +51,10 @@ We recommend using these slides as a supplementary resource to better understand
 This case study will provide you with a practical understanding of how to fine-tune the T5 model to produce more neutral summaries. The hands-on exercise will walk you through the necessary steps, from data preprocessing to quality assessment and the implementation of reinforcement learning techniques for alignment.
 
 - **Notebook:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wG8lv6drn872HNZHrT7V9kl6JIF1SXpr?usp=sharing) - Aligning T5 Summaries to be More Neutral
+   <p align="center">
+  <img style="max-height:400px;max-width:400px" src="images/flan.png" />
+</p>
+
 
 ## Case Study 2: Aligning Llama 3 8B to Answer Questions on Custom Datasets
 
