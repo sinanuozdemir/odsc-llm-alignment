@@ -56,12 +56,23 @@ Follow this extensive guide to aligning the Llama 3 model to answer questions mo
    
 2. **Training a Reward Model for RLHF:** Learn how to evaluate the quality of answers provided by SAWYER using paired preference data.
    - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bVjTzOjXCOM8J6tzgt3LK-D0K-yGWzyI?usp=sharing) - Training a Reward Model for RLHF Using Paired Preference Data
+   <p align="center">
+  <img style="max-width:500px" src="images/rew0.png" />
+</p>
    
 3. **Performing RLHF on SAWYER:** Begin the journey of implementing reinforcement learning techniques to improve the alignment of SAWYER.
    - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QR_Xf1GsOyChYzReg_JHxsBTrMZ0Vwz6?usp=sharing) - Performing RLHF on SAWYER to make our answers more beautiful
-   
+   <p align="center">
+  <img style="max-height:400px;max-width:400px" src="images/sawyer1.png" />
+</p>
+
 4. **Evaluating Our Newly Aligned LLM:** Continuously enhance SAWYER alignment using advanced RL techniques and evaluate the improvements.
    - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xUrIbqyKoEjxNyjNI6iuYuSNMyksypEO?usp=sharing) - Spot Evaluating Our Newly Aligned LLM
-   
+   <p align="center">
+  <img style="max-height:700px;" src="images/rew.png" />
+</p>
 5. **Updating Our LLM with New Information:** Implement your custom dataset and evaluate the final performance of SAWYER
    - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12JeS96SVLIyY06bzJs96B5PdTt1Pga06?usp=sharing) - Updating Our LLM with New Information
+  <p align="center">
+  <img style="max-height:700px;" src="images/domain.png" />
+</p>
